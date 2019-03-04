@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>https://waytoua.github.io/</loc>
+	<lastmod>2019-03-04T05:38:33+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://waytoua.github.io/destinations.html</loc>
+	<lastmod>2019-03-04T05:38:33+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://waytoua.github.io/mice.html</loc>
+	<lastmod>2019-03-04T05:38:34+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://waytoua.github.io/weddings.html</loc>
+	<lastmod>2019-03-04T05:38:35+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://waytoua.github.io/entertainments.html</loc>
+	<lastmod>2019-03-04T05:38:35+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
